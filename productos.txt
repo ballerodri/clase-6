@@ -1,0 +1,1 @@
+[{"title":"pc","description":"nueva","price":2000,"thumbnail":"","code":"R123","stock":1,"id":1},{"title":"notebook","description":"nueva","price":1800,"thumbnail":"","code":"R234","stock":5,"id":2},{"title":"monitor","description":"usado","price":1000,"thumbnail":"","code":"R456","stock":3,"id":3}]
